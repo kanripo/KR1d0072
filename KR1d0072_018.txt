@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記析疑
-#+DATE: 2015-09-23 09:38:36
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:11:04.300119
+#+PROPERTY: ID KR1d0072
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1d0072_WYG_018-1a>¶
 欽定四庫全書¶
 　禮記析疑卷十八¶
@@ -146,4 +148,3 @@
 　讓相辭及歌詩之禮安得執燭者獨有此戒禁¶
 　¶
 　禮記析疑卷十八¶
-
